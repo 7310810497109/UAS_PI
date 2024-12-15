@@ -1,0 +1,12 @@
+Courses,Categories,Fee,Duration,Percentage Discount,Total
+Spark,DS,20000,30,5,599000.0
+Hadoop,DS,25000,40,10,997500.0
+Pandas,PI,30000,35,5,1047900.0
+Java,PI,35000,60,5,2097550.0
+Pyspark,DS,26000,50,5,1298700.0
+Machine Learning,DS,40000,90,10,3596000.0
+Deep Learning,DS,45000,120,15,5393250.0
+Computer Vision,PI,50000,75,20,3739000.0
+Natural Language Processing,PI,55000,100,10,5493400.0
+Data Analysis,DS,35000,80,5,2798250.0
+Python Programming,PI,500000,90,10,44940000.0
